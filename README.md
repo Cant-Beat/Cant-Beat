@@ -1,5 +1,5 @@
 🟨 𝐒 𝐀 𝐈 𝐏 𝐑 𝐀 𝐊 𝐀 𝐒 𝐇
-Founder’s Office Associate | DevOps Engineer (Intern) | Product & TechOps
+Founder’s Office Associate | DevOps Engineer | Product & TechOps
 
  <p align="center"><img width="1536" height="1024" alt="Sai Prakash Professional Design" src="https://github.com/user-attachments/assets/109a02e5-a4c1-4837-8ee3-aacec7d5fadd" />
  </p>
