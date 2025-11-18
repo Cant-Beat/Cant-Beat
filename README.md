@@ -25,6 +25,7 @@ Hands-on with Azure, CI/CD, Docker, Linux, ACR
 Career direction toward Product/Cloud/TechOps leadership roles
 
 💼 Experience
+
 🟣 CHAIOMI-Founder’s Office Associate — Product & TechOps
 
 Worked directly with founders to convert raw ideas into structured product requirements, user flows, and actionable plans. Built documentation systems, SOPs, and workflow structures that improved clarity, execution, and decision-making speed.
