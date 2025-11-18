@@ -67,6 +67,7 @@ Gained practical experience with Linux debugging, Kubernetes YAML, and AKS deplo
 2025 — Product Workflows · TechOps Execution  
 
 🏗️ Architecture Skills
+
 📦 App Packaging & Deployment
 
 Docker, multi-stage builds, Compose, ACR workflows
