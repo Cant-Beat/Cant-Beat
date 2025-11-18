@@ -1,5 +1,6 @@
 🟨 𝐒 𝐀 𝐈 𝐏 𝐑 𝐀 𝐊 𝐀 𝐒 𝐇
 Founder’s Office Associate | DevOps Engineer (Intern) | Product & TechOps
+
  <p align="center"><img width="1536" height="1024" alt="Sai Prakash Professional Design" src="https://github.com/user-attachments/assets/fe2d2be9-5c05-44b4-86c5-004aefeb5afc" /> </p>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Goldman&size=26&pause=800&color=F7C91A&center=true&vCenter=true&width=700&lines=Product+%7C+TechOps+%7C+DevOps;Clarity+%7C+Execution+%7C+Systems;Azure+%7C+Cloud+Engineer+Mindset;Building+%26+Fixing+Things+That+Matter" /> </p>
