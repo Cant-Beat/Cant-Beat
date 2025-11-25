@@ -61,7 +61,7 @@ Gained practical experience with Linux debugging, Kubernetes YAML, and AKS deplo
 2023 — Docker & Containers  
 2024 — Azure (VMs, IAM, ACR, Networking)  
 2024 — CI/CD with Azure DevOps  
-2024 — CI/CD with Azure DevOps + GitHub Actions  
+2024 — CI/CD with GitHub Actions  
 2024 — Kubernetes YAML + Deployments  
 2025 — AKS Deployments · Cloud Infra Thinking  
 2025 — Product Workflows · TechOps Execution  
